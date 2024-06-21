@@ -42,7 +42,7 @@ I am a Programmer Student from Mexico.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaldito&show_icons=true&locale=en&theme=radical" alt="Kaldito" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaldito&show_icons=true&locale=en&layout=compact" alt="Kaldito" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaldito&show_icons=true&locale=en&layout=compact&theme=radical" alt="Kaldito" /></p>
 
 
 
