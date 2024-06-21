@@ -38,7 +38,7 @@ I am a Programmer Student from Mexico.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaldito&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaldito&theme=radical&background=000000)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaldito&show_icons=true&locale=en&theme=radical" alt="Kaldito" /></p>
 
